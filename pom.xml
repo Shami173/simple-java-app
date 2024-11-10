@@ -43,7 +43,8 @@
     <distributionManagement>
         <repository>
             <id>nexus</id> <!-- Match this ID with the settings.xml -->
-            <url>http://54.197.18.124:8081/repository/Ansible-Rohit/</url>
+            <url>http://54.197.18.124:8081/repository/Ansible-Rohit/
+/</url>
         </repository>
     </distributionManagement>
 </project>
